@@ -14,3 +14,5 @@ Languages and Tools:
 <hr>
 
 ![Xox's GitHub stats](https://github-readme-stats.vercel.app/api?username=XoxFR&show_icons=true&theme=dark)
+
+✉️ xox.contact7@gmail.com
